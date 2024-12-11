@@ -15,8 +15,7 @@ I'm currently learning Data Science.
   
 
 ## 📊 Github Stats
-![](https://github-readme-stats.vercel.app/api?username=nadpierre&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=nadpierre&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nadpierre&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+[![Nadine Pierre's GitHub stats](https://github-readme-stats.vercel.app/api?username=nadpierre)](https://github.com/anuraghazra/github-readme-stats)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=nadpierre&theme=default&hide_border=false)<br/>
+[![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nadpierre)](https://github.com/anuraghazra/github-readme-stats)<br/>
 [![](https://visitcount.itsvg.in/api?id=nadpierre&icon=0&color=0)](https://visitcount.itsvg.in)
