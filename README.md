@@ -18,4 +18,3 @@ I'm currently learning Data Science.
 [![Nadine Pierre's GitHub stats](https://github-readme-stats.vercel.app/api?username=nadpierre)](https://github.com/anuraghazra/github-readme-stats)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nadpierre&theme=default&hide_border=false)<br/>
 [![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nadpierre)](https://github.com/anuraghazra/github-readme-stats)<br/>
-![](https://komarev.com/ghpvc/?username=nadpierre)
