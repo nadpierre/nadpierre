@@ -2,8 +2,9 @@
 
 
 ## 🚀 About Me
-I'm a Web Developer with over 4 years of experience of Full Stack and Backend development.
-I'm currently learning Data Science.
+I'm a junior Data Scientist.
+I'm a former Web Developer with over 4 years of experience of Full Stack and Backend development.
+
 
 
 ## 🔗 Links
