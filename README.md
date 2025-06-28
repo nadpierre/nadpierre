@@ -2,8 +2,7 @@
 
 
 ## 🚀 About Me
-I'm a former Web Developer with over 4 years of experience of Full Stack and Backend development. I transitioned into Data Science.
-
+I'm a Web Developer with over 4+ years of experience of Web development. I'm also learning Data Science.
 
 
 ## 🔗 Links
