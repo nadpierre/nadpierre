@@ -2,7 +2,7 @@
 
 
 ## 🚀 About Me
-I'm a Web Developer with over 4+ years of experience of Web development. I'm also learning Data Science.
+I'm a former Web Developer 5 years of experience who's transitioning into the Data field.
 
 
 ## 🔗 Links
